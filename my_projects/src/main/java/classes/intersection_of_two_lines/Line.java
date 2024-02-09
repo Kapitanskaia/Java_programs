@@ -19,8 +19,6 @@ public class Line {
 
     /**
      * This method returns a Point of intersection of two lines.
-     * @param other
-     * @return
      */
     public Point intersection(Line other) {
         // k1 * x + b1 = k2 * x + b2;
